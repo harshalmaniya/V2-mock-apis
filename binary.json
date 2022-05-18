@@ -1,0 +1,28 @@
+{
+  "active": [
+    {
+      "asset": {
+        "name": "BNB",
+        "img": "https://res.cloudinary.com/dgdjabqwr/image/upload/v1629971863/Buffer/bnb_bg_f1vmze.svg"
+      },
+      "type": "Yes",
+      "expiration": "17th May 2022",
+      "payout": 23.0,
+      "odds": "2.4X",
+      "probability": "20%"
+    }
+  ],
+  "history": [
+    {
+      "asset": {
+        "name": "BNB",
+        "img": "https://res.cloudinary.com/dgdjabqwr/image/upload/v1629971863/Buffer/bnb_bg_f1vmze.svg"
+      },
+      "type": "Yes",
+      "expiration": "17th May 2022",
+      "payout": 23.0,
+      "odds": "2.4X",
+      "probability": "20%"
+    }
+  ]
+}
