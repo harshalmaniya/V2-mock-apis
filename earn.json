@@ -1,0 +1,16 @@
+{
+  "token": {
+    "name": "iBFR",
+    "price": "0.3"
+  },
+  "pool": {
+    "apr": "25%",
+    "rewards": 20.00,
+    "multiplier_apr": "90%",
+    "boost": "10%"
+  },
+  "total": {
+    "staked": "54342",
+    "supply": "56363"
+  }
+}
